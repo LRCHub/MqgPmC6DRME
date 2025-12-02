@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "歩く花",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:55:58.186933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歩く花",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/01_歩く花_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歩く花",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_歩く花_NEE.txt"
+    }
+  ]
+}
